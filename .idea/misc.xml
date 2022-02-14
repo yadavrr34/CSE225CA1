@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EarningEthics/app/src/main/res/drawable/buttonbackground.xml" value="0.26205128205128203" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EarningEthics/app/src/main/res/drawable/edittextbackground.xml" value="0.26205128205128203" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EarningEthics/app/src/main/res/layout/activity_about_us.xml" value="0.25" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EarningEthics/app/src/main/res/layout/activity_booking.xml" value="0.25" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EarningEthics/app/src/main/res/layout/activity_joinus.xml" value="0.2359375" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EarningEthics/app/src/main/res/layout/activity_launch_page.xml" value="0.25" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EarningEthics/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EarningEthics/app/src/main/res/layout/activity_meetings.xml" value="0.25" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EarningEthics/app/src/main/res/layout/activity_samples.xml" value="0.2359375" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EarningEthics/app/src/main/res/layout/activity_services.xml" value="0.25" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EarningEthics/app/src/main/res/layout/activity_services_view.xml" value="0.2359375" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EarningEthics/app/src/main/res/layout/custom_toast_layout.xml" value="0.25" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EarningEthics/app/src/main/res/menu/menu.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
